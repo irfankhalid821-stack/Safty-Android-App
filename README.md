@@ -87,37 +87,37 @@ User Device → Android Application → Firebase Realtime Database → Tracking 
 🔹 Splash Screen
 
 
-Initial loading screen
+Initial loading screen
 
 
 🔹 Authentication Module
 
 
-User registration and login system
+User registration and login system
 
 
 🔹 Emergency Module
 
 
-Sends alert message and user data to Firebase
+Sends alert message and user data to Firebase
 
 
 🔹 Location Tracking Module
 
 
-Captures and updates GPS coordinates in real time
+Captures and updates GPS coordinates in real time
 
 
 🔹 Maps Module
 
 
-Displays live user location using Google Maps
+Displays live user location using Google Maps
 
 
 🔹 Navigation Module
 
 
-Provides structured app navigation
+Provides structured app navigation
 
 
 ⚙️ Tech Stack
