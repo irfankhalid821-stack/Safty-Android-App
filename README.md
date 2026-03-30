@@ -38,16 +38,16 @@ This system aims to reduce response time and improve personal security.
 The application provides a one-tap emergency alert system that:
 
 
-* Sends real-time GPS location to the cloud
+1. Sends real-time GPS location to the cloud
 
 
-* Triggers an emergency alert message
+2. Triggers an emergency alert message
 
 
-* Continuously updates user location
+3. Continuously updates user location
 
 
-* Enables live tracking by authorized users
+4. Enables live tracking by authorized users
 
 
 This ensures immediate communication and faster assistance during emergencies.
