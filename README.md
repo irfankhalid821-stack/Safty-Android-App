@@ -130,7 +130,7 @@ User Device → Android Application → Firebase Realtime Database → Tracking 
 
 4. IDE: Android Studio
 
-5. APIs	Google Maps API
+5. APIs: Google Maps API
 
 6. GPS Location Services
 
