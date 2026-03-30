@@ -166,11 +166,11 @@ Provides structured app navigation
 1. Clone the Repository
 git clone https://github.com/your-username/firebase-safety-app.git
 2. Open in Android Studio
--> Sync Gradle
--> Build the project
+→ Sync Gradle
+→ Build the project
 3. Configure Firebase
--> Download google-services.json from Firebase Console
--> Place it in:
+→ Download google-services.json from Firebase Console
+→ Place it in:
 app/google-services.json
 4. Run the Application
 
