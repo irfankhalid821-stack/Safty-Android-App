@@ -141,10 +141,10 @@ APIs	Google Maps API, GPS Location Services
 3.Application captures:
 
 
-oLatitude & Longitude
+* Latitude & Longitude
 
 
-oEmergency status
+* Emergency status
 
 
 4.Data is sent to Firebase in real time
