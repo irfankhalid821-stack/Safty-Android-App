@@ -177,16 +177,16 @@ app/google-services.json
 ⚠️ Limitations (Current Version)
 
 
-Uses legacy Android Support Libraries (SDK 26)
+* Uses legacy Android Support Libraries (SDK 26)
 
 
-Firebase SDK version is outdated
+* Firebase SDK version is outdated
 
 
-No push notification system
+* No push notification system
 
 
-Basic authentication (not fully secure)
+* Basic authentication (not fully secure)
 
 
 🔮 Future Enhancements
