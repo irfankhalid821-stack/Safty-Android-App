@@ -55,25 +55,25 @@ This ensures immediate communication and faster assistance during emergencies.
 🚀 Key Features
 
 
-🚨 One-Tap Emergency Alert
+🚨 One-Tap Emergency Alert
 
 
-📍 Real-Time GPS Location Tracking
+📍 Real-Time GPS Location Tracking
 
 
-☁️ Firebase Realtime Database Integration
+☁️ Firebase Realtime Database Integration
 
 
-🔐 User Login & Registration System
+🔐 User Login & Registration System
 
 
-🗺️ Google Maps Live Tracking Interface
+🗺️ Google Maps Live Tracking Interface
 
 
-🔄 Real-Time Data Synchronization
+🔄 Real-Time Data Synchronization
 
 
-⚡ Lightweight & Fast Performance
+⚡ Lightweight & Fast Performance
 
 
 🏗️ System Architecture
