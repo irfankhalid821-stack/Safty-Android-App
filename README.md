@@ -219,16 +219,16 @@ app/google-services.json
 This system can significantly improve safety by:
 
 
-Reducing emergency response time
+1. Reducing emergency response time
 
 
-Providing real-time tracking for victims
+2. Providing real-time tracking for victims
 
 
-Assisting law enforcement agencies
+3. Assisting law enforcement agencies
 
 
-Enhancing personal security for vulnerable individuals
+4. Enhancing personal security for vulnerable individuals
 
 
 👨‍💻 Author
